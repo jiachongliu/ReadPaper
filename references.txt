@@ -1,0 +1,83 @@
+Naseem I，Togneri Ｒ，Bennamoun M．Linear regression
+for face recognition［J］． IEEE Transactions on Pattern
+Analysis and Machine Intelligence，2010，32 ( 11 ) :
+2106－2112．
+
+Kim Jong Kyoung，Choi Seungjin．Probabilistic models
+for semi-supervised discriminative motif discovery in
+DNA sequences［J］．IEEE-ACM Transactions on Com-
+putational Biology and Bioinformatics，2011，8 ( 5 ) :
+1309－1324．
+
+Kavitha T，Cuntai G，Tong L C，et al．Adaptive tracking
+of discriminative frequency components in electroen-
+cephalograms for a robust brain-computer interface［J］．
+Journal of Neural Engineering， 2011， 8 ( 3 ) :
+36007－36019．
+
+李根，李文辉．基于思维进化的机器学习的遮挡人
+脸识别［J］．吉林大学学报( 工学版) ，2013，35( 1) :
+171－184．
+Li Gen，Li Wenhui．Face occlusion recognition based on
+MEBML［J］． Journal of Jilin University ( Engineering
+and Technology Edition) ，2013，35( 1) : 171－184．
+
+翟彭奎，甘俊英，李景文．基于彩色信息融合和同伦
+算法的遮挡鲁棒人脸识别方法研究［J］．信号处理，
+2011，27( 11) : 1762－1767．
+Zhai Pengkui，Gan Junying，Li Jingwen． Study of
+occluded robust face recognition approach based on ho-
+motopy algorithm and color information fusion ［J］．
+Signal Processing，2011，27( 11) : 1762－176
+
+Chen Jie，Zhang Yi．Sparse representation for face rec-
+ognition by discriminative low-rank matrix recovery
+［J］．Journal of Visual Communication and Image Ｒep-
+resentation，2014，25( 5) : 763－773．
+
+江明阳，封举富．基于鲁棒主成分分析的人脸子空
+间重构方法［J］．计算机辅助设计与图形学学报，
+2012，24( 6) : 761－766．
+Jung Mingyang，Feng Jufu．Ｒobust principal component
+analysis for face subspace recovery［J］．Journal of Com-
+puter-Aided Design ＆ Computer Graphics，2012，24
+( 6) : 761－766．
+
+［10］ 胡正平，彭燕，赵淑欢．非最小平方误差局部－全局
+加权融合的稀疏表示遮挡人脸识别［J］．模式识别
+与人工智能学，2015，28( 7) : 633－640．
+Hu Zhengping，Peng Yan，Zhao Shuhuan．Sparse repre-
+sentation with weighted fusion of local based non-mini-
+mum square error and global for face recognition under
+occlusion condition［J］． PＲ ＆ AI，2015，28 ( 7) : 633
+－640．
+
+［11］ Luan Xiao，Fang Bin，Liu Linghui，et al． Extracting
+sparse error of robust PCA for face recognition in the
+presence of varying illumination and occlusion［J］．Pat-
+tern Ｒecognition，2014，47( 2) : 495－508．
+
+［12］ 邓楠，徐正光，王珺．基于稀疏表征多分类器融合的
+遮挡人脸识别［J］．计算机应用研究，2013，30( 6) :
+1914－1916，1920．
+Deng Nan， Xu Zhengguang， Wang Jun． Sparse
+representation based multi-classifier fusion approach for
+occluded face recognition［J］． Application Ｒesearch of
+Computers，2013，30( 6) : 1914－1916，1920．
+
+
+［13］ 杨国亮，丰义琴，鲁海荣．基于低秩表示中稀疏误差
+的可变光照和局部遮挡人脸识别［J］．计算机工程
+与科学，2015，37( 9) : 1742－1749．
+Yang Guoliang， Feng Yiqin， Lu Hairong． Face
+recognition with varying illumination and occlusion
+based on sparse error of low rank representation［J］．
+Computer Engineering ＆ Science，2015，37 ( 9 ) :
+1742－1749．
+
+［14］ Hsieh Pingcheng，Tung Picheng． A novel hybrid
+approach based on sub-pattern technique and whitened
+PCA for face recognition ［J］． Pattern Ｒecognition，
+2009，42( 5) : 978－984．
+564
+
